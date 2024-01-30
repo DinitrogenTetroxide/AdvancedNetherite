@@ -1,0 +1,102 @@
+{
+    "block.advancednetherite.netherite_iron_block": "Blok Netheryto-żelaza",
+    "block.advancednetherite.netherite_gold_block": "Blok Netheryto-złota",
+    "block.advancednetherite.netherite_emerald_block": "Blok Netheryto-szmaragdów",
+    "block.advancednetherite.netherite_diamond_block": "Blok Netheryto-diamentów",
+  
+    "item.advancednetherite.netherite_iron_ingot": "Sztabka Netheryto-żelaza",
+    "item.advancednetherite.netherite_gold_ingot": "Sztabka Netheryto-złota",
+    "item.advancednetherite.netherite_emerald_ingot": "Sztabka Netheryto-szmaragdu",
+    "item.advancednetherite.netherite_diamond_ingot": "Sztabka Netheryto-diamentu",
+  
+    "item.advancednetherite.netherite_iron_helmet": "Netheryto-żelazny hełm",
+    "item.advancednetherite.netherite_gold_helmet": "Netheryto-żelazny hełm",
+    "item.advancednetherite.netherite_emerald_helmet": "Netheryto-szmaragdowy hełm",
+    "item.advancednetherite.netherite_diamond_helmet": "Netheryto-diamentowy hełm",
+  
+    "item.advancednetherite.netherite_iron_chestplate": "Netheryto-żelazny napierśnik",
+    "item.advancednetherite.netherite_gold_chestplate": "Netheryto-żelazny napierśnik",
+    "item.advancednetherite.netherite_emerald_chestplate": "Netheryto-szmaragdowy napierśnik",
+    "item.advancednetherite.netherite_diamond_chestplate": "Netheryto-diamentowy napierśnik",
+  
+    "item.advancednetherite.netherite_iron_leggings": "Netheryto-żelazne nogawice",
+    "item.advancednetherite.netherite_gold_leggings": "Netheryto-złote nogawice",
+    "item.advancednetherite.netherite_emerald_leggings": "Netheryto-szmaragdowe nogawice",
+    "item.advancednetherite.netherite_diamond_leggings": "Netheryto-diamentowe nogawice",
+  
+    "item.advancednetherite.netherite_iron_boots": "Netheryto-żelazne buty",
+    "item.advancednetherite.netherite_gold_boots": "Netheryto-złote buty",
+    "item.advancednetherite.netherite_emerald_boots": "Netheryto-szmaragdowe buty",
+    "item.advancednetherite.netherite_diamond_boots": "Netheryto-diamentowe buty",
+  
+    "item.advancednetherite.netherite_iron_axe": "Netheryto-żelazna siekiera",
+    "item.advancednetherite.netherite_gold_axe": "Netheryto-złota siekiera",
+    "item.advancednetherite.netherite_emerald_axe": "Netheryto-szmaragdowa siekiera",
+    "item.advancednetherite.netherite_diamond_axe": "Netheryto-diamentowa siekiera",
+  
+    "item.advancednetherite.netherite_iron_hoe": "Netheryto-żelazna motyka",
+    "item.advancednetherite.netherite_gold_hoe": "Netheryto-złota motyka",
+    "item.advancednetherite.netherite_emerald_hoe": "Netheryto-szmaragdowa motyka",
+    "item.advancednetherite.netherite_diamond_hoe": "Netheryto-diamentowa motyka",
+  
+    "item.advancednetherite.netherite_iron_pickaxe": "Netheryto-żelazny kilof",
+    "item.advancednetherite.netherite_gold_pickaxe": "Netheryto-złoty kilof",
+    "item.advancednetherite.netherite_emerald_pickaxe": "Netheryto-szmaragdowy kilof",
+    "item.advancednetherite.netherite_diamond_pickaxe": "Netheryto-diamentowy kilof",
+  
+    "item.advancednetherite.netherite_iron_shovel": "Netheryto-żelazna łopata",
+    "item.advancednetherite.netherite_gold_shovel": "Netheryto-złota łopata",
+    "item.advancednetherite.netherite_emerald_shovel": "Netheryto-szmaragdowa łopata",
+    "item.advancednetherite.netherite_diamond_shovel": "Netheryto-diamentowa łopata",
+  
+    "item.advancednetherite.netherite_iron_sword": "Netheryto-żelazny miecz",
+    "item.advancednetherite.netherite_gold_sword": "Netheryto-złoty miecz",
+    "item.advancednetherite.netherite_emerald_sword": "Netheryto-szmaragdowy miecz",
+    "item.advancednetherite.netherite_diamond_sword": "Netheryto-diamentowy miecz",
+  
+    "itemGroup.advancednetherite.tab": "Zaawansowany Netheryt",
+    
+    "tooltip.advancednetherite.armor.enderman_passive": "+ Pacyfikuje Endermany",
+    "tooltip.advancednetherite.armor.piglin_passive": "+ Pacyfikuje Pigliny",
+    "tooltip.advancednetherite.armor.phantom_passive": "+ Pacyfikuje Fantomy",
+  
+    "tooltip.advancednetherite.hoe.additional_crop_drops": "+ Szansa na upuszczenie dodatkowych plonów podczas ich zbierania",
+  
+    "tooltip.advancednetherite.pickaxe.additional_diamond_drop": "+ Szansa na upuszczenie dodatkowych diamentów podczas kopania rudy diamentu",
+    "tooltip.advancednetherite.pickaxe.additional_emerald_drop": "+ Szansa na upuszczenie dodatkowych szmaragdów podczas kopania rudy szmaragdu",
+    "tooltip.advancednetherite.pickaxe.additional_gold_drop": "+ Szansa na upuszczenie dodatkowego surowego złota podczas kopania rudy złota",
+    "tooltip.advancednetherite.pickaxe.additional_iron_drop": "+ Szansa na upuszczenie dodatkowego surowego żelaza podczas kopania rudy żelaza",
+  
+    "tooltip.advancednetherite.sword.additional_enderman_mob_drop": "+ Szansa na upuszczenie dodatkowej perły Endu podczas zabijania Endermana",
+    "tooltip.advancednetherite.sword.additional_piglin_mob_drop": "+ Szansa na upuszczenie dodatkowej sztabki złota podczas zabijania Piglina",
+    "tooltip.advancednetherite.sword.additional_zombified_piglin_mob_drop": "+ Szansa na upuszczenie dodatkowej bryłki złota podczas zabijania Zombifikowanego Piglina",
+    "tooltip.advancednetherite.sword.additional_phantom_mob_drop": "+ Szansa na upuszczenie dodatkowej membrany fantoma podczas zabijania Fantoma",
+  
+    "tooltip.advancednetherite.misc.press_shift_key": "Naciśnij %s by zobaczyć wszystkie bonusy",
+    "tooltip.advancednetherite.misc.shift": "[SHIFT]",
+  
+    "advancements.advancednetherite.husbandry.netherite_diamond_hoe.title": "Dlaczego?",
+    "advancements.advancednetherite.husbandry.netherite_diamond_hoe.description": "Stwórz Netheryto-diamentową motykę, a po wszystkim odwiedź psychologa",
+    "advancements.advancednetherite.nether.netherite_iron_armor.title": "Koniec z fantomami",
+    "advancements.advancednetherite.nether.netherite_iron_armor.description": "Zdobądź kompletną Netheryto-żelazną zbroję",
+    "advancements.advancednetherite.nether.netherite_gold_armor.title": "Ostateczny strój rozpraszający pigliny",
+    "advancements.advancednetherite.nether.netherite_gold_armor.description": "Zdobądź kompletną Netherytowo-złotą zbroję",
+    "advancements.advancednetherite.nether.netherite_emerald_armor.title": "Endermany?",
+    "advancements.advancednetherite.nether.netherite_emerald_armor.description": "Zdobądź kompletną Netheryto-szmaragdową zbroję",
+    "advancements.advancednetherite.nether.netherite_diamond_armor.title": "Pokryj mnie Netheryto-diamentami",
+    "advancements.advancednetherite.nether.netherite_diamond_armor.description": "Zdobądź kompletną Netheryto-diamentową zbroję",
+    "advancements.advancednetherite.nether.obtain_netherite_iron_ingot.title": "Ulepszenia!",
+    "advancements.advancednetherite.nether.obtain_netherite_iron_ingot.description": "Pozyskaj sztabkę Netheryto-żelaza",
+    "advancements.advancednetherite.nether.obtain_netherite_diamond_block.title": "Bardzo drogi blok",
+    "advancements.advancednetherite.nether.obtain_netherite_diamond_block.description": "Pozyskaj blok Netheryto-diamentów",
+  
+    "config.advancednetherite.client.show_tooltips": "Jeśli włączone, wyświetla podpowiedzi dodane przez Advanced Netherite, z bonusami po stronie klienta.",
+    "config.advancednetherite.client.matching_durability_bars": "Jeśli włączone, wyświetla (kolor) odpowiadający paskowi zużycia pod przedmiotem, jeśli jest on uszkodzony.",
+    "config.advancednetherite.client.enable_search_bar": "Jeśli włączone, pokazuje pasek wyszukiwania w karcie ekwipunku trybu kreatywnego Advanced Netherite.",
+    "config.advancednetherite.client.force_disable_dab_support": "Jeśli włączone, wymusza wyłączenie wsparcia dla moda Detail Armor Bar. Wymaga restartu gry.",
+  
+    "config.advancednetherite.screen.description.top": "Zainstaluj moda %s by edytować konfigurację dodaną przez %s z poziomu gry.",
+    "config.advancednetherite.screen.description.bottom": "Zobacz stronę wiki, jeśli potrzebujesz instrukcji",
+    "config.advancednetherite.screen.button.install_configured": "Zainstaluj %s",
+    "config.advancednetherite.screen.button.instructions": "Instrukcje"
+}
